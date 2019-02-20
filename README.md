@@ -1,6 +1,6 @@
 # Vue.js client boilerplate for GraphQL
 
-> This is only simple training project where i try build front-end client for [back-end server with Express, QraphQL & MongoDB](https://github.com/sebastianluszczek/graphQL_express.js_mongoDB).
+> This is only simple training project where i try build front-end client for [back-end server with Express, GraphQL & MongoDB](https://github.com/sebastianluszczek/graphQL_express.js_mongoDB).
 > This project may serve as a boilerplate for future more complex projects.
 
 ---
